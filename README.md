@@ -2,7 +2,7 @@ Coressed
 Hey there! 👋 I'm Coressed, an aspiring software engineer and game developer passionate about building immersive experiences through programming.
 
 About Me
-🎓 Currently in the tenth grade, but already diving deep into the world of engineering and programming.
+🎓 Currently in highschool, but already diving deep into the world of engineering and programming.
 💻 Love coding and can spend hours working on projects and exploring new technologies.
 🎮 Dream of creating successful video games that captivate players and take them on unforgettable adventures.
 
